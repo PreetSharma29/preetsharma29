@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning *React JS*
 
-- 👨‍💻 All of my projects are available at [preet-sharma-portfolio.netlify.app](preet-sharma-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [preet-sharma.netlify.app](preet-sharma.netlify.app)
 
 - 💬 Ask me about *UX/UI*
 
